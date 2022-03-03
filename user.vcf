@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Wu;Vicky;;;
-FN: Vicky Wu 
-ORG:Vicky Wu Marketing;
-TITLE:CEO
-EMAIL;type=INTERNET;type=WORK;type=pref:vicky@vickywu.us
-TEL;type=WORK;type=VOICE:+1 512 591 8295
-item1.ADR;type=WORK;type=pref:;;Houston, TX
+N:Greenwood,Jada;;;
+FN: Jada Greenwood
+ORG:CENTURY 21 Judge Fite;
+TITLE:REALTOR
+EMAIL;type=INTERNET;type=WORK;type=pref:jadagreenwood@judgefite.com
+TEL;type=WORK;type=VOICE:+1 612 597 6102
+item1.ADR;type=WORK;type=pref:;;Midlothian, TX
 item1.X-ABADR:sg
-item2.URL;https://vickywu.marketing
+item2.URL;https://www.century21.com/real-estate-agent/profile/jada-greenwood-P25394382
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
